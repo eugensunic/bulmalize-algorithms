@@ -1,0 +1,12 @@
+.box-config {
+  font-size: 25px;
+  padding: 50px;
+  text-align: center;
+  height: 100%;
+}
+.padding-top-20 {
+  padding-top: 20px;
+}
+.box-config:hover {
+  cursor: pointer;
+}
